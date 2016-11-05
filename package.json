@@ -32,8 +32,10 @@
   "bugs": {
     "url": "https://github.com/derkmdt/starwars-names-dup/issues"
   },
-  "homepage": "https://github.com/derkmdt/starwars-names-dup#readme"
-  "czConfig": {
-    "path": "node_modules/cz-conventional-changelog"
+  "homepage": "https://github.com/derkmdt/starwars-names-dup#readme",
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
   }
 }
