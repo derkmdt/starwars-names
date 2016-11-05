@@ -1,0 +1,28 @@
+{
+  "name": "starwars-names-dup",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derkmdt/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Derk Braakman <derkmdt@hotmail.com> (http://www.derkbraakman.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derkmdt/starwars-names/issues"
+  },
+  "homepage": "https://github.com/derkmdt/starwars-names#readme"
+}
